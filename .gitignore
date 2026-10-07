@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+# compiled Stan models
+stan/*
+!stan/*.stan

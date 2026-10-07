@@ -1,0 +1,17 @@
+"variable","parameter","median","lower","upper","lhs_median_min","lhs_median_max"
+"rr[1]","Fertility-rate ratio, 15-19",5.26,1.14,24.8,4.82,7.46
+"rr[2]","Fertility-rate ratio, 20-24",1.11,1,1.61,1.1,1.15
+"rr[3]","Fertility-rate ratio, 25-29",1.07,1,1.39,1.06,1.07
+"rr[4]","Fertility-rate ratio, 30-34",1.12,1.01,1.63,1.09,1.13
+"rr[5]","Fertility-rate ratio, 35-39",1.3,1.01,2.75,1.25,1.36
+"rr[6]","Fertility-rate ratio, 40-44",3.15,1.07,13,2.43,4.15
+"rep","Reporting fraction",0.139,0.117,0.179,0.115,0.189
+"p1[1]","Waiting interval from Dx to CS delivery, 2016-2019, <1Q",0.527,0.248,0.846,0.52,0.557
+"p1[2]","Waiting interval from Dx to CS delivery, 2016-2019, >1Q <2Q",0.193,0.0116,0.56,0.181,0.194
+"p1[3]","Waiting interval from Dx to CS delivery, 2016-2019, >2Q <3Q",0.233,0.0158,0.564,0.202,0.251
+"p2[1]","Waiting interval from Dx to CS delivery, 2020-2021, <1Q",0.485,0.0813,0.82,0.432,0.574
+"p2[2]","Waiting interval from Dx to CS delivery, 2020-2021, >1Q <2Q",0.188,0.00816,0.63,0.174,0.197
+"p2[3]","Waiting interval from Dx to CS delivery, 2020-2021, >2Q <3Q",0.291,0.0217,0.668,0.18,0.356
+"p3[1]","Waiting interval from Dx to CS delivery, 2022-2025, <1Q",0.214,0.0104,0.72,0.217,0.237
+"p3[2]","Waiting interval from Dx to CS delivery, 2022-2025, >1Q <2Q",0.338,0.018,0.849,0.294,0.362
+"p3[3]","Waiting interval from Dx to CS delivery, 2022-2025, >2Q <3Q",0.355,0.0178,0.855,0.307,0.419
